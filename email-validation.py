@@ -28,14 +28,9 @@ def check(email):
 # Driver Code
 if __name__ == '__main__':
  
-    # Enter the email
-    email = "ankitrai326@gmail.com"
+   # Take user's email address
  
-    # calling run function
+    email = input('Please enter your email address: ')
+    
     check(email)
- 
-    email = "my.ownsite@our-earth.org"
-    check(email)
- 
-    email = "ankitrai326.com"
-    check(email)
+
