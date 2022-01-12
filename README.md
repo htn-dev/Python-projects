@@ -1,3 +1,3 @@
 # Python-projects
 
-# A collection of simple python projects
+# A collection of interesting python projects
