@@ -6,7 +6,7 @@ import os
 import re
 os.system('cls' if os.name=='nt' else 'clear')
 while (1 < 2):
-    print('\n')
+    print('')
     print("Rock, Paper, Scissors - Shoot!")
     userChoice = input("Choose your weapon [R]ock], [P]aper, or [S]cissors: ")
     if not re.match("[SsRrPp]", userChoice):
