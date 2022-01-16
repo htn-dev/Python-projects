@@ -20,7 +20,7 @@ while (1 < 2):
     print("I chose: " + opponenetChoice)
     if opponenetChoice == str.upper(userChoice):
         print("Tie! ")
-    #if opponenetChoice == str("R") and str.upper(userChoice) == "P"
+    # If opponenetChoice == str("R") and str.upper(userChoice) == "P"
     elif opponenetChoice == 'R' and userChoice.upper() == 'S':      
         print("Scissors beats rock, I win! ")
         continue
