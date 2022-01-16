@@ -11,7 +11,7 @@ while (1 < 2):
     userChoice = input("Choose your weapon [R]ock], [P]aper, or [S]cissors: ")
     if not re.match("[SsRrPp]", userChoice):
         print("Please choose a letter:")
-        print("[R]ock, [S]cissors or [P]apers.")
+        print("[R]ock, [S]cissors or [P]aper.")
         continue
     # Echo the user's choice
     print("You chose: " + userChoice)
