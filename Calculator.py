@@ -24,7 +24,9 @@ def subtraction ():
 def multiplication ():
     print("Multiplication")
     n = float(input("Enter the number: "))
-    t = 0 # Total number enter
+    t = 0 
+    
+    # Total number enter
     ans = 1
     while n != 0:
         ans = ans * n
