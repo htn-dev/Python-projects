@@ -30,7 +30,7 @@ def multiplication ():
     n = float(input("Enter the number: "))
     t = 0 
     
-    # Total number enter
+    #  Total number enter
     ans = 1
     while n != 0:
         ans = ans * n
