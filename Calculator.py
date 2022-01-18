@@ -6,7 +6,7 @@ def addition ():
     n = float(input("Enter the number: "))
     t = 0 
     
-    # Total number enter
+    #  Total number enter
     ans = 0
     while n != 0:
         ans = ans + n
