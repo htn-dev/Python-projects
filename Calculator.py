@@ -14,7 +14,9 @@ def addition ():
 def subtraction ():
     print("Subtraction")
     n = float(input("Enter the number: "))
-    t = 0 # Total number enter
+    t = 0 
+    
+    # Total number enter
     sum = 0
     while n != 0:
         ans = ans - n
