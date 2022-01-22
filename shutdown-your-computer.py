@@ -1,5 +1,5 @@
 # This program will shutdown your computer when executed. 
-# Make sure to save all your works before execute it
+# Make sure to save all your works before execute this program
 
 import os
 
