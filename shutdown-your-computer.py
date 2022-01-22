@@ -1,4 +1,4 @@
-# This program will shutdown your computer when executed. 
+# Python program to shutdown your computer
 # Make sure to save all your works before execute this program
 
 import os
