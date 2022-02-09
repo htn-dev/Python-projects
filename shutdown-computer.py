@@ -1,5 +1,5 @@
 # A Python program to shutdown your computer
-# WARNING: Make sure to save all your works before execute this program
+# !!! WARNING !!! Make sure to save all your works before execute this program
 
 import os
 
