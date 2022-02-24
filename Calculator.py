@@ -37,6 +37,7 @@ def multiplication ():
         t+=1
         n = float(input("Enter another number (0 to calculate): "))
     return [ans,t]
+
 def average():
     an = []
     an = addition()
