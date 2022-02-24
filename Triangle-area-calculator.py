@@ -2,7 +2,7 @@ print('Please enter the values of the three sides of the triangle: ')
 
 # Take inputs from the user
 a = float(input('Enter first side value: '))
-b = float(input('Enter second side: '))
+b = float(input('Enter second side value: '))
 c = float(input('Enter third side: '))
 
 # calculate the semi-perimeter
