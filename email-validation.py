@@ -23,7 +23,6 @@ def check(email):
     else:
         print("Invalid Email")
  
-
 # Driver Code
 if __name__ == '__main__':
  
