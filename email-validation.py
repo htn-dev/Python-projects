@@ -1,6 +1,5 @@
 # PYTHON PROGRAM TO VALIDATE EMAIL ADDRESSES
 
-
 # import re module
 # re module provides support
 # for regular expressions
