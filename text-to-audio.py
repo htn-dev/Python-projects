@@ -1,4 +1,4 @@
-# REQUIREMENT: install pyttsx3 module with the following command:
+# REQUIREMENT: install pyttsx3 module using the following command:
 
 # pip install pyttsx3
 
