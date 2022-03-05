@@ -13,6 +13,7 @@ while (1 < 2):
         print("Please choose a letter:")
         print("[R]ock, [S]cissors or [P]aper.")
         continue
+        
     # Echo the user's choice
     print("You chose: " + userChoice)
     choices = ['R', 'P', 'S']
