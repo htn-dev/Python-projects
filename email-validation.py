@@ -17,6 +17,7 @@ def check(email):
  
     # pass the regular expression
     # and the string into the fullmatch() method
+   
     if(re.fullmatch(regex, email)):
         print("Valid Email")
  
