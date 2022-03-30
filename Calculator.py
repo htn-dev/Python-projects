@@ -28,6 +28,7 @@ def subtraction ():
         t+=1
         n = float(input("Enter another number (0 to calculate): "))
     return [ans,t]
+
 def multiplication ():
     print("Multiplication")
     n = float(input("Enter the number: "))
