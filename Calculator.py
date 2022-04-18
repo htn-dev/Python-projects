@@ -8,6 +8,7 @@ def addition ():
     t = 0 
     
     #  Total number enter
+    
     ans = 0
     
     while n != 0:
