@@ -1,7 +1,7 @@
 """ CALCULATOR
 ----------------------------------------
 """
-   
+    
 def addition ():
     print("Addition")
     n = float(input("Enter the number: "))
