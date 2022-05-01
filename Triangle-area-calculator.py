@@ -4,7 +4,6 @@ a = float(input('Enter first side value: '))
 b = float(input('Enter second side value: '))
 c = float(input('Enter third side value: '))
 # calculate the semi-perimeter
-
 s = (a + b + c) / 2
 
 # calculate the area
