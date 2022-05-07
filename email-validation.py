@@ -24,7 +24,6 @@ def check(email):
         print("Invalid Email")
  
 # Driver Code
-
 if __name__ == '__main__':
  
    # Take user's email address
