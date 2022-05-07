@@ -28,6 +28,5 @@ if __name__ == '__main__':
  
    # Take user's email address
     email = input('Please enter your email address: ')
-
     check(email)
 
