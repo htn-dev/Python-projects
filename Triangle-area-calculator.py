@@ -1,4 +1,4 @@
-print('Please enter the values of the three sides of the triangle: ')
+print('Pleas e enter the values of the three sides of the triangle: ')
  
 # Take inputs from the user
 a = float(input('Enter first side value: '))
