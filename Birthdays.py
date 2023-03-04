@@ -1,3 +1,4 @@
+
 birthdays = {'Hang': 'Oct 30', 'Trung': 'Sep 22', 'Mom': 'Mar 14'}
 while True:
     print('Enter a name: (blank to quit)')
